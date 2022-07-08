@@ -13,7 +13,9 @@ I created a column using a conditional formula to summarize the 'Age' column for
 Four pivot tables were created to help identify trends in the data, including: relationship between income and bikes purchased, commute distance and bikes purchased, and age and bikes purchased. 
 
 ### Visualization
-Pivot tables were formatted into a dashboard so stakeholders could easily view the information in one place. Slicers were added for an interactive element. 
+Pivot tables were formatted into a dashboard so stakeholders could easily view the information in one place. 
+Slicers were added for an interactive element. 
+
 <img src="https://i.ibb.co/Xbf57Bp/Spreadsheets-Project-Bike-Sales-Dashboard-page-001.jpg" alt="Spreadsheets-Project-Bike-Sales-Dashboard-page-001" border="0">
 
 ### Results
